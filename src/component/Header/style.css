@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: .5rem;
+    background-color: #182825;
+}
+.Header{
+    
+}
+.Headerbackground{
+    background: #6D8EA0;
+}
