@@ -26,7 +26,25 @@ const Portfolio = (props) => {
             <a href="https://doggiedatesfrontend.herokuapp.com/" className='portlink'>Deployed app</a>
             <a href='https://github.com/Amartind/Doggie-daycare-front' className='portlink'>GitHub repository</a>
        </div>
-       <h1 className='text-4xl'>More To Come Soon...</h1>
+       <div className='project card flex flex-col flex-auto'>
+            <img src="" className="projectimg"/>
+            <p className='text-xl'>Coming soon</p>
+            <a href="" className='portlink'>Deployed app</a>
+            <a href='' className='portlink'>GitHub repository</a>
+       </div>
+       <div className='project card flex flex-col flex-auto'>
+            <img src="" className="projectimg"/>
+            <p className='text-xl'>Coming soon</p>
+            <a href="" className='portlink'>Deployed app</a>
+            <a href='' className='portlink'>GitHub repository</a>
+       </div>
+       <div className='project card flex flex-col flex-auto'>
+            <img src="" className="projectimg"/>
+            <p className='text-xl'>Coming soon</p>
+            <a href="" className='portlink'>Deployed app</a>
+            <a href='' className='portlink'>GitHub repository</a>
+       </div>
+       {/* <h1 className='text-4xl'>More To Come Soon...</h1> */}
     </div>
   )
 }
