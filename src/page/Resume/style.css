@@ -1,3 +1,9 @@
+*{
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
 .resume:hover{
     color: blue;
 }
